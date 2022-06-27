@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T03:01:25.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="TBoaNhQ21tMT98kg-KWl" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T03:36:05.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="q-ntyjyB-lf7D5vqJZNF" version="20.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Within TSG Threshold?&lt;br&gt;vCPU=&lt;font color=&quot;#ff3333&quot;&gt;8&lt;/font&gt;&lt;br&gt;MEM=&lt;font color=&quot;#ff3333&quot;&gt;32GB&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="160" width="130" height="120" as="geometry" />
+          <mxGeometry x="370" y="160" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aWSOxl5YBgDPmi3oxphR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aWSOxl5YBgDPmi3oxphR-0" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="aWSOxl5YBgDPmi3oxphR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aWSOxl5YBgDPmi3oxphR-0" target="Xeq2L3Bv2HtUtD48o3VJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWSOxl5YBgDPmi3oxphR-0" value="Reguest to TSG" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aWSOxl5YBgDPmi3oxphR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aWSOxl5YBgDPmi3oxphR-2" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="aWSOxl5YBgDPmi3oxphR-8" value="WSO or DCC-Windows/Branch to perform upgrade" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1040" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aWSOxl5YBgDPmi3oxphR-10" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aWSOxl5YBgDPmi3oxphR-10" value="Collect Information&lt;br&gt;Vendor documentation / vROPs/Logs" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="295" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWSOxl5YBgDPmi3oxphR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#3333FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aWSOxl5YBgDPmi3oxphR-12" target="aWSOxl5YBgDPmi3oxphR-14" edge="1">
@@ -41,13 +41,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWSOxl5YBgDPmi3oxphR-12" value="YES" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aWSOxl5YBgDPmi3oxphR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aWSOxl5YBgDPmi3oxphR-14" target="aWSOxl5YBgDPmi3oxphR-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aWSOxl5YBgDPmi3oxphR-14" value="Capacity Assessment" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="750" y="180" width="80" height="80" as="geometry" />
+        <mxCell id="aWSOxl5YBgDPmi3oxphR-14" value="TSG/Autoplacement:&lt;br&gt;Capacity Assessment&amp;nbsp;&lt;br&gt;&amp;amp; Optimal Pairing value" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="740" y="190" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWSOxl5YBgDPmi3oxphR-13" value="NO" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325" y="320" width="60" height="30" as="geometry" />
@@ -57,6 +57,9 @@
             <mxPoint x="355" y="280" as="sourcePoint" />
             <mxPoint x="355" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Xeq2L3Bv2HtUtD48o3VJ-1" value="Is it SQL Server?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="220" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
