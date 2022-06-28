@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T02:25:53.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="g2_v0JqnCtdqjtBN3csX" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T02:30:51.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="kP_3AJj02f0efbXKuMT0" version="20.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,12 @@
         </mxCell>
         <mxCell id="Bxt-Yvj8bxx-1eshp0qT-30" value="YES" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bxt-Yvj8bxx-1eshp0qT-31" value="Current Threshold that TSG can approve&lt;br&gt;vCPU&amp;lt;4&lt;br&gt;MEM&amp;lt;16GB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="90" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bxt-Yvj8bxx-1eshp0qT-32" value="Current Threshold considered as Monster&lt;br&gt;vCPU&amp;gt;16&lt;br&gt;MEM&amp;gt;64GB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="515" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
